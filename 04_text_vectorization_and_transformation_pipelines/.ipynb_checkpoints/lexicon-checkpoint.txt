@@ -1,0 +1,19 @@
+3
+0	at	1
+7	bat	1
+8	can	1
+12	door	1
+9	echoloc	1
+1	eleph	1
+2	of	1
+13	open	1
+3	potato	1
+10	see	1
+14	she	1
+4	sight	2
+5	sneez	2
+15	studio	1
+6	the	3
+16	to	1
+11	via	1
+17	wonder	1
